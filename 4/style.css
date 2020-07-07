@@ -1,0 +1,26 @@
+body {
+    background-color: #f2ebe6;
+}
+
+h1, h2 {
+    text-align: center;
+    color: rgba(255, 136, 0, 0.685);
+}
+
+.big {
+    font-weight: bold;
+}
+
+.em {
+    font-style: italic;
+}
+
+.main-content {
+    width: 70%;
+    display: inline-block;
+}
+
+.block-menu {
+    position: fixed;
+    right: 10px;
+}
